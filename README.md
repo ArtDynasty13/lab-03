@@ -2,11 +2,11 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://developer.android.com/reference/android/os/Bundle, https://developer.android.com/reference/java/io/Serializable
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `N/A`        | `N/A`    |
 | `<Add more>` | `<CCID>`  |
